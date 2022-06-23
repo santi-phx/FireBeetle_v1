@@ -12,3 +12,5 @@
   - Recuperar datos por el medio que sea
 - Prueba unitaria a Dabble (ESP32 + Celular):
   - https://thestempedia.com/docs/dabble/getting-started-with-dabble/
+    - Obtener posición del GPS
+    - Obtener marca de tiempo para sincronizar reloj
