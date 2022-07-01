@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\LIGHT_SENSOR_TEST"
+		},
+		{
+			"name": "TEMP_TEST",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
